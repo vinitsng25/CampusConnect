@@ -1,0 +1,2 @@
+/* Additional responsive utilities kept separate for the project brief. */
+.mobile-only{display:none}@media(max-width:1000px){.mobile-only{display:inline-flex}.desktop-only{display:none!important}}@media(max-width:480px){.btn{width:100%}.hero-actions .btn{width:auto}.detail-actions .btn{width:auto}.quick-actions{grid-template-columns:1fr}}
